@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@mediapipe/face_detection": "^0.4.1646425229",
+    "body-parser": "^1.20.3",
+    "dialogflow-fulfillment": "^0.5.0",
+    "express": "^4.21.2",
+    "face-api.js": "^0.22.2",
+    "framer-motion": "^12.5.0",
+    "react-chat-widget": "^3.1.4",
+    "webcamjs": "^1.0.26"
+  }
+}
